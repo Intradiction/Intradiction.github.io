@@ -14,7 +14,7 @@ function App() {
         <Experience/>
         <Tech/>
         <Works/>
-        {/* <Feedbacks/> test*/}
+        {/* <Feedbacks/> test2*/}
         <div className="relative z-0">
           <Contact/>
           <StarsCanvas/>
