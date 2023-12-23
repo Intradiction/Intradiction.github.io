@@ -25,7 +25,7 @@ import netcore from "./tech/netcore.png";
 import java from "./tech/java.png";
 
 import personalprojects from "./company/personalprojects.png";
-import tmu from "./company/TMU.png";
+import tmu from "./company/tmu.png";
 import celestica from "./company/celestica.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
